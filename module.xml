@@ -3,7 +3,7 @@
 	<name>Weather</name>
 	<version>1.0.0</version>
 	<type>setup</type>
-	<category>Provides a Feature Code</category>
+	<category>Third Party Addon</category>
 	<description>Provides Dial Weather Report</description>
 	<attention>
 	This Module requires flite 1.0.3 to be installed.  yum -y install flite .
