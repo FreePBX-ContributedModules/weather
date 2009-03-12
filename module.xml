@@ -8,7 +8,7 @@
 	<attention>
 	This Module requires flite 1.0.3 to be installed.  yum -y install flite .
 	</attention>
-	<location>release/weather-1.0.0.tgz</location>
+	<location>contributed_modules/release/weather-1.0.0.tgz</location>
 	<info>http://aussievoip.com.au/wiki/freePBX-Features</info>
-	<md5sum>cf4eb72d0f25f1118c38e6b9e5e05cc1</md5sum>
+	<md5sum>712c9d8fd74904dcdffb8c9ca72ad7e0</md5sum>
 </module>
